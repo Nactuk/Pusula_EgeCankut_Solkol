@@ -1,6 +1,9 @@
 Pusula Vaka Çalışması
+
 Hazırlayan: Ege Cankut Solkol
+
 Email: egecankut@gmail.com
+
 Tarih: 22 Eylül 2024
 
 Proje Özeti
